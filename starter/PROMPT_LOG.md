@@ -1,3 +1,4 @@
+
 PROMPT LOG
 
 
@@ -31,3 +32,11 @@ Result:
 
 Showed how designers broke grid rules and used expressive typography.
 Used for New Wave curator card.
+
+Prompt 4:
+
+"Review my Curator Card about Swiss Style as if you were Josef Müller-Brockmann. Critique the accuracy, vocabulary, and tone. Flag anything that should be verified."
+
+Result:
+
+The critique confirmed that the description correctly emphasized grid systems and objective typography. The vocabulary matched Swiss Style terminology. The expert critique suggested emphasizing grid precision and clarity of communication, which were already included in the final version.
